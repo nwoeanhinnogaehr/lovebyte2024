@@ -1,0 +1,21 @@
+sadfuture by byteobserver
+for executable music compo
+Lovebyte 2024
+
+dedicated to those with a pessimistic disposition
+
+113 bytes for x86 linux
+| 44 bytes shell dropper + audio out setup
+| 34 bytes ELF header (excluding parts I control) 
+| 35 bytes music gen + write audio out
+
+greets:
+1x dresdenboy grz hannu HellMood HeNeArXn
+hromi immibis juvi lucid orby p01 pestis
+pixtur superogue ToBach viznut vl4d zden
+... all sizecoders ...
+... and all the friendly faces who I can't put
+    names to right now (sleep deprivation... yeah!)
+
+if you like it, check out my new album:
+https://byteobserver.bandcamp.com/album/ultrastructure
